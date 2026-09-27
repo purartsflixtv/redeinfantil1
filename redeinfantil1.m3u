@@ -1,1 +1,640 @@
 #EXTM3U
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/uSzDkvweaylvregFTGlklH84FEW.jpg", [SERIE] Os Super Patos (1996)
+#SINOPSE: Foi levemente inspirado no filme Nós Somos os Campeões e no time de hóquei no gelo Super Patos de Anaheim, contando a história de seis patos antropomórficos alienígenas que aterrissam na Terra e fundam um time de hóquei enquanto tentam voltar para casa.
+#EPISODIO: S01E01 - Episódio 1|https://redeflixapi.store/serie/1334/1/1
+#EPISODIO: S01E02 - Episódio 2|https://redeflixapi.store/serie/1334/1/2
+#EPISODIO: S01E03 - Episódio 3|https://redeflixapi.store/serie/1334/1/3
+#EPISODIO: S01E04 - Episódio 4|https://redeflixapi.store/serie/1334/1/4
+#EPISODIO: S01E05 - Episódio 5|https://redeflixapi.store/serie/1334/1/5
+#EPISODIO: S01E06 - Episódio 6|https://redeflixapi.store/serie/1334/1/6
+#EPISODIO: S01E07 - Episódio 7|https://redeflixapi.store/serie/1334/1/7
+#EPISODIO: S01E08 - Episódio 8|https://redeflixapi.store/serie/1334/1/8
+#EPISODIO: S01E09 - Episódio 9|https://redeflixapi.store/serie/1334/1/9
+#EPISODIO: S01E10 - Episódio 10|https://redeflixapi.store/serie/1334/1/10
+#EPISODIO: S01E11 - Episódio 11|https://redeflixapi.store/serie/1334/1/11
+#EPISODIO: S01E12 - Episódio 12|https://redeflixapi.store/serie/1334/1/12
+#EPISODIO: S01E13 - Episódio 13|https://redeflixapi.store/serie/1334/1/13
+#EPISODIO: S01E14 - Episódio 14|https://redeflixapi.store/serie/1334/1/14
+#EPISODIO: S01E15 - Episódio 15|https://redeflixapi.store/serie/1334/1/15
+#EPISODIO: S01E16 - Episódio 16|https://redeflixapi.store/serie/1334/1/16
+#EPISODIO: S01E17 - Episódio 17|https://redeflixapi.store/serie/1334/1/17
+#EPISODIO: S01E18 - Episódio 18|https://redeflixapi.store/serie/1334/1/18
+#EPISODIO: S01E19 - Episódio 19|https://redeflixapi.store/serie/1334/1/19
+#EPISODIO: S01E20 - Episódio 20|https://redeflixapi.store/serie/1334/1/20
+#EPISODIO: S01E21 - Episódio 21|https://redeflixapi.store/serie/1334/1/21
+#EPISODIO: S01E22 - Episódio 22|https://redeflixapi.store/serie/1334/1/22
+#EPISODIO: S01E23 - Episódio 23|https://redeflixapi.store/serie/1334/1/23
+#EPISODIO: S01E24 - Episódio 24|https://redeflixapi.store/serie/1334/1/24
+#EPISODIO: S01E25 - Episódio 25|https://redeflixapi.store/serie/1334/1/25
+#EPISODIO: S01E26 - Episódio 26|https://redeflixapi.store/serie/1334/1/26
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/shgHSQfwBWVhV8f8A88AWcIdOun.jpg", [SERIE] Kiya e os Heróis de Kimoja (2023)
+#SINOPSE: As aventuras cheias de adrenalina da amante de dança e artes marciais Kiya, e de seus melhores amigos, Motsie e Jay. Juntos, com seus poderes carregados de cristal, eles são super-heróis na cidade de Kimoja, inspirada no sul da África. Eles resolvem as coisas com muito brilho até que a alegria e a harmonia sejam restauradas em sua comunidade.
+#EPISODIO: S01E01 - Kiya e o Monstro da Pipa|https://redeflixapi.store/serie/220595/1/1
+#EPISODIO: S01E02 - Catástrofe Cósmica|https://redeflixapi.store/serie/220595/1/2
+#EPISODIO: S01E03 - De Zero a Herói|https://redeflixapi.store/serie/220595/1/3
+#EPISODIO: S01E04 - Um Passo Para Trás|https://redeflixapi.store/serie/220595/1/4
+#EPISODIO: S01E05 - A Festa de Kiya|https://redeflixapi.store/serie/220595/1/5
+#EPISODIO: S01E06 - Mescla Musical|https://redeflixapi.store/serie/220595/1/6
+#EPISODIO: S01E07 - Episódio 7|https://redeflixapi.store/serie/220595/1/7
+#EPISODIO: S01E08 - Episódio 8|https://redeflixapi.store/serie/220595/1/8
+#EPISODIO: S01E09 - Episódio 9|https://redeflixapi.store/serie/220595/1/9
+#EPISODIO: S01E10 - Episódio 10|https://redeflixapi.store/serie/220595/1/10
+#EPISODIO: S01E11 - Episódio 11|https://redeflixapi.store/serie/220595/1/11
+#EPISODIO: S01E12 - Episódio 12|https://redeflixapi.store/serie/220595/1/12
+#EPISODIO: S01E13 - Episódio 13|https://redeflixapi.store/serie/220595/1/13
+#EPISODIO: S01E14 - Episódio 14|https://redeflixapi.store/serie/220595/1/14
+#EPISODIO: S01E15 - Episódio 15|https://redeflixapi.store/serie/220595/1/15
+#EPISODIO: S01E16 - Episódio 16|https://redeflixapi.store/serie/220595/1/16
+#EPISODIO: S01E17 - Episódio 17|https://redeflixapi.store/serie/220595/1/17
+#EPISODIO: S01E18 - Episódio 18|https://redeflixapi.store/serie/220595/1/18
+#EPISODIO: S01E19 - Episódio 19|https://redeflixapi.store/serie/220595/1/19
+#EPISODIO: S01E20 - Episódio 20|https://redeflixapi.store/serie/220595/1/20
+#EPISODIO: S01E21 - Episódio 21|https://redeflixapi.store/serie/220595/1/21
+#EPISODIO: S01E22 - Episódio 22|https://redeflixapi.store/serie/220595/1/22
+#EPISODIO: S01E23 - Episódio 23|https://redeflixapi.store/serie/220595/1/23
+#EPISODIO: S01E24 - Episódio 24|https://redeflixapi.store/serie/220595/1/24
+#EPISODIO: S01E25 - Episódio 25|https://redeflixapi.store/serie/220595/1/25
+#EPISODIO: S01E26 - Episódio 26|https://redeflixapi.store/serie/220595/1/26
+#EPISODIO: S01E27 - Episódio 27|https://redeflixapi.store/serie/220595/1/27
+#EPISODIO: S01E28 - Episódio 28|https://redeflixapi.store/serie/220595/1/28
+#EPISODIO: S01E29 - Episódio 29|https://redeflixapi.store/serie/220595/1/29
+#EPISODIO: S01E30 - Episódio 30|https://redeflixapi.store/serie/220595/1/30
+#EPISODIO: S01E31 - Episódio 31|https://redeflixapi.store/serie/220595/1/31
+#EPISODIO: S01E32 - Episódio 32|https://redeflixapi.store/serie/220595/1/32
+#EPISODIO: S01E33 - Episódio 33|https://redeflixapi.store/serie/220595/1/33
+#EPISODIO: S01E34 - Episódio 34|https://redeflixapi.store/serie/220595/1/34
+#EPISODIO: S01E35 - Episódio 35|https://redeflixapi.store/serie/220595/1/35
+#EPISODIO: S01E36 - Episódio 36|https://redeflixapi.store/serie/220595/1/36
+#EPISODIO: S01E37 - Episódio 37|https://redeflixapi.store/serie/220595/1/37
+#EPISODIO: S01E38 - Episódio 38|https://redeflixapi.store/serie/220595/1/38
+#EPISODIO: S01E39 - Episódio 39|https://redeflixapi.store/serie/220595/1/39
+#EPISODIO: S01E40 - Episódio 40|https://redeflixapi.store/serie/220595/1/40
+#EPISODIO: S01E41 - Episódio 41|https://redeflixapi.store/serie/220595/1/41
+#EPISODIO: S01E42 - Episódio 42|https://redeflixapi.store/serie/220595/1/42
+#EPISODIO: S01E43 - Episódio 43|https://redeflixapi.store/serie/220595/1/43
+#EPISODIO: S01E44 - Episódio 44|https://redeflixapi.store/serie/220595/1/44
+#EPISODIO: S01E45 - Episódio 45|https://redeflixapi.store/serie/220595/1/45
+#EPISODIO: S01E46 - Episódio 46|https://redeflixapi.store/serie/220595/1/46
+#EPISODIO: S01E47 - Episódio 47|https://redeflixapi.store/serie/220595/1/47
+#EPISODIO: S01E48 - Episódio 48|https://redeflixapi.store/serie/220595/1/48
+#EPISODIO: S01E49 - Episódio 49|https://redeflixapi.store/serie/220595/1/49
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/8tyYmv3NAvDehKbqYMLCcAaL0OM.jpg", [SERIE] Lalaloopsy (2013)
+#SINOPSE: Bonecas de pano ganham vida numa série de animação com muita cor, música, imaginação e aventuras divertidas que nem sempre dão certo.
+#EPISODIO: S01E01 - Episódio 1|https://redeflixapi.store/serie/69538/1/1
+#EPISODIO: S01E02 - Episódio 2|https://redeflixapi.store/serie/69538/1/2
+#EPISODIO: S01E03 - Episódio 3|https://redeflixapi.store/serie/69538/1/3
+#EPISODIO: S01E04 - Episódio 4|https://redeflixapi.store/serie/69538/1/4
+#EPISODIO: S01E05 - Episódio 5|https://redeflixapi.store/serie/69538/1/5
+#EPISODIO: S01E06 - Episódio 6|https://redeflixapi.store/serie/69538/1/6
+#EPISODIO: S01E07 - Episódio 7|https://redeflixapi.store/serie/69538/1/7
+#EPISODIO: S01E08 - Episódio 8|https://redeflixapi.store/serie/69538/1/8
+#EPISODIO: S01E09 - Episódio 9|https://redeflixapi.store/serie/69538/1/9
+#EPISODIO: S01E10 - Episódio 10|https://redeflixapi.store/serie/69538/1/10
+#EPISODIO: S01E11 - Episódio 11|https://redeflixapi.store/serie/69538/1/11
+#EPISODIO: S01E12 - Episódio 12|https://redeflixapi.store/serie/69538/1/12
+#EPISODIO: S01E13 - Episódio 13|https://redeflixapi.store/serie/69538/1/13
+#EPISODIO: S01E14 - Episódio 14|https://redeflixapi.store/serie/69538/1/14
+#EPISODIO: S01E15 - Episódio 15|https://redeflixapi.store/serie/69538/1/15
+#EPISODIO: S01E16 - Episódio 16|https://redeflixapi.store/serie/69538/1/16
+#EPISODIO: S01E17 - Episódio 17|https://redeflixapi.store/serie/69538/1/17
+#EPISODIO: S01E18 - Episódio 18|https://redeflixapi.store/serie/69538/1/18
+#EPISODIO: S01E19 - Episódio 19|https://redeflixapi.store/serie/69538/1/19
+#EPISODIO: S01E20 - Episódio 20|https://redeflixapi.store/serie/69538/1/20
+#EPISODIO: S01E21 - Episódio 21|https://redeflixapi.store/serie/69538/1/21
+#EPISODIO: S01E22 - Episódio 22|https://redeflixapi.store/serie/69538/1/22
+#EPISODIO: S01E23 - Episódio 23|https://redeflixapi.store/serie/69538/1/23
+#EPISODIO: S01E24 - Episódio 24|https://redeflixapi.store/serie/69538/1/24
+#EPISODIO: S01E25 - Episódio 25|https://redeflixapi.store/serie/69538/1/25
+#EPISODIO: S01E26 - Episódio 26|https://redeflixapi.store/serie/69538/1/26
+#EPISODIO: S01E27 - Episódio 27|https://redeflixapi.store/serie/69538/1/27
+#EPISODIO: S01E98 - Episódio 98|https://redeflixapi.store/serie/69538/1/98
+#EPISODIO: S01E99 - Episódio 99|https://redeflixapi.store/serie/69538/1/99
+#EPISODIO: S02E01 - Episódio 1|https://redeflixapi.store/serie/69538/2/1
+#EPISODIO: S02E02 - Episódio 2|https://redeflixapi.store/serie/69538/2/2
+#EPISODIO: S02E03 - Episódio 3|https://redeflixapi.store/serie/69538/2/3
+#EPISODIO: S02E04 - Episódio 4|https://redeflixapi.store/serie/69538/2/4
+#EPISODIO: S02E05 - Episódio 5|https://redeflixapi.store/serie/69538/2/5
+#EPISODIO: S02E06 - Episódio 6|https://redeflixapi.store/serie/69538/2/6
+#EPISODIO: S02E07 - Episódio 7|https://redeflixapi.store/serie/69538/2/7
+#EPISODIO: S02E08 - Episódio 8|https://redeflixapi.store/serie/69538/2/8
+#EPISODIO: S02E09 - Episódio 9|https://redeflixapi.store/serie/69538/2/9
+#EPISODIO: S02E10 - Episódio 10|https://redeflixapi.store/serie/69538/2/10
+#EPISODIO: S02E11 - Episódio 11|https://redeflixapi.store/serie/69538/2/11
+#EPISODIO: S02E12 - Episódio 12|https://redeflixapi.store/serie/69538/2/12
+#EPISODIO: S02E13 - Episódio 13|https://redeflixapi.store/serie/69538/2/13
+#EPISODIO: S02E14 - Episódio 14|https://redeflixapi.store/serie/69538/2/14
+#EPISODIO: S02E15 - Episódio 15|https://redeflixapi.store/serie/69538/2/15
+#EPISODIO: S02E16 - Episódio 16|https://redeflixapi.store/serie/69538/2/16
+#EPISODIO: S02E17 - Episódio 17|https://redeflixapi.store/serie/69538/2/17
+#EPISODIO: S02E18 - Episódio 18|https://redeflixapi.store/serie/69538/2/18
+#EPISODIO: S02E19 - Episódio 19|https://redeflixapi.store/serie/69538/2/19
+#EPISODIO: S02E20 - Episódio 20|https://redeflixapi.store/serie/69538/2/20
+#EPISODIO: S02E21 - Episódio 21|https://redeflixapi.store/serie/69538/2/21
+#EPISODIO: S02E22 - Episódio 22|https://redeflixapi.store/serie/69538/2/22
+#EPISODIO: S02E23 - Episódio 23|https://redeflixapi.store/serie/69538/2/23
+#EPISODIO: S02E24 - Episódio 24|https://redeflixapi.store/serie/69538/2/24
+#EPISODIO: S02E25 - Episódio 25|https://redeflixapi.store/serie/69538/2/25
+#EPISODIO: S02E26 - Episódio 26|https://redeflixapi.store/serie/69538/2/26
+#EPISODIO: S02E27 - Episódio 27|https://redeflixapi.store/serie/69538/2/27
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/obPUvHMIaRfnMWRieWhi6w3Aq1d.jpg", [SERIE] Festa de Palavras (2016)
+#SINOPSE: Conheça os adoráveis Bailey, Franny, Kip e Lulu. Estes filhotes querem que você entre nesta festa e se divirta aprendendo!
+#EPISODIO: S01E01 - Conheça os bebês|https://redeflixapi.store/serie/67059/1/1
+#EPISODIO: S01E02 - Na fazenda|https://redeflixapi.store/serie/67059/1/2
+#EPISODIO: S01E03 - Para a Lua!|https://redeflixapi.store/serie/67059/1/3
+#EPISODIO: S01E04 - O corredor lento|https://redeflixapi.store/serie/67059/1/4
+#EPISODIO: S01E05 - Estourou meu balão|https://redeflixapi.store/serie/67059/1/5
+#EPISODIO: S01E06 - O monstro das cores|https://redeflixapi.store/serie/67059/1/6
+#EPISODIO: S01E07 - Ai!|https://redeflixapi.store/serie/67059/1/7
+#EPISODIO: S01E08 - Hora das cócegas|https://redeflixapi.store/serie/67059/1/8
+#EPISODIO: S01E09 - Lulu está cansada|https://redeflixapi.store/serie/67059/1/9
+#EPISODIO: S01E10 - Uma grande surpresa|https://redeflixapi.store/serie/67059/1/10
+#EPISODIO: S01E11 - Cupcakes para o almoço?|https://redeflixapi.store/serie/67059/1/11
+#EPISODIO: S01E12 - A maçã desaparecida|https://redeflixapi.store/serie/67059/1/12
+#EPISODIO: S01E13 - Um trabalho para a Lulu|https://redeflixapi.store/serie/67059/1/13
+#EPISODIO: S01E14 - Bailey, o ajudante|https://redeflixapi.store/serie/67059/1/14
+#EPISODIO: S02E01 - O jardim do Bailey|https://redeflixapi.store/serie/67059/2/1
+#EPISODIO: S02E02 - Volte, borboleta|https://redeflixapi.store/serie/67059/2/2
+#EPISODIO: S02E03 - A noite é para dormir|https://redeflixapi.store/serie/67059/2/3
+#EPISODIO: S02E04 - O oposto de divertido|https://redeflixapi.store/serie/67059/2/4
+#EPISODIO: S02E05 - O travesseiro especial da Lulu|https://redeflixapi.store/serie/67059/2/5
+#EPISODIO: S02E06 - Blocos e formatos|https://redeflixapi.store/serie/67059/2/6
+#EPISODIO: S02E07 - Luzes apagadas|https://redeflixapi.store/serie/67059/2/7
+#EPISODIO: S02E08 - Barulhento!|https://redeflixapi.store/serie/67059/2/8
+#EPISODIO: S02E09 - O teste do sabor|https://redeflixapi.store/serie/67059/2/9
+#EPISODIO: S02E10 - Kip muda de ideia|https://redeflixapi.store/serie/67059/2/10
+#EPISODIO: S02E11 - Uma marcha no parquinho|https://redeflixapi.store/serie/67059/2/11
+#EPISODIO: S02E12 - Todo mundo é bom em algo|https://redeflixapi.store/serie/67059/2/12
+#EPISODIO: S03E01 - Solta o som!|https://redeflixapi.store/serie/67059/3/1
+#EPISODIO: S03E02 - A roda quebrada do Rafa|https://redeflixapi.store/serie/67059/3/2
+#EPISODIO: S03E03 - Aprenda a palavra "penico" na festa de palavras!|https://redeflixapi.store/serie/67059/3/3
+#EPISODIO: S03E04 - Bons modos|https://redeflixapi.store/serie/67059/3/4
+#EPISODIO: S03E05 - Arte com o coração|https://redeflixapi.store/serie/67059/3/5
+#EPISODIO: S03E06 - Não tenha medo de trovão|https://redeflixapi.store/serie/67059/3/6
+#EPISODIO: S03E07 - Bons amigos|https://redeflixapi.store/serie/67059/3/7
+#EPISODIO: S03E08 - As frações da Franny|https://redeflixapi.store/serie/67059/3/8
+#EPISODIO: S03E09 - Uma cama para o Rafa|https://redeflixapi.store/serie/67059/3/9
+#EPISODIO: S03E10 - O monstro do fedor|https://redeflixapi.store/serie/67059/3/10
+#EPISODIO: S03E11 - Movimentos legais|https://redeflixapi.store/serie/67059/3/11
+#EPISODIO: S03E12 - O piquenique e os insetos|https://redeflixapi.store/serie/67059/3/12
+#EPISODIO: S03E13 - Pega-pega no oceano|https://redeflixapi.store/serie/67059/3/13
+#EPISODIO: S03E14 - Se acabe de comprar!|https://redeflixapi.store/serie/67059/3/14
+#EPISODIO: S04E01 - A grande surpresa|https://redeflixapi.store/serie/67059/4/1
+#EPISODIO: S04E02 - Eu digo olá e a Tilly diz Nǐ hǎo|https://redeflixapi.store/serie/67059/4/2
+#EPISODIO: S04E03 - Primeiros passos|https://redeflixapi.store/serie/67059/4/3
+#EPISODIO: S04E04 - O que a Tilly quer comer?|https://redeflixapi.store/serie/67059/4/4
+#EPISODIO: S04E05 - A catástrofe com Click Clock|https://redeflixapi.store/serie/67059/4/5
+#EPISODIO: S04E06 - A Tilly não é um brinquedo!|https://redeflixapi.store/serie/67059/4/6
+#EPISODIO: S04E07 - Quero ser grande|https://redeflixapi.store/serie/67059/4/7
+#EPISODIO: S04E08 - O que é meu é seu|https://redeflixapi.store/serie/67059/4/8
+#EPISODIO: S04E09 - O sorriso de ponta-cabeça|https://redeflixapi.store/serie/67059/4/9
+#EPISODIO: S04E10 - Hora do banho!|https://redeflixapi.store/serie/67059/4/10
+#EPISODIO: S05E01 - Para o alto!|https://redeflixapi.store/serie/67059/5/1
+#EPISODIO: S05E02 - Dinossauros no parquinho|https://redeflixapi.store/serie/67059/5/2
+#EPISODIO: S05E03 - O tesouro perdido|https://redeflixapi.store/serie/67059/5/3
+#EPISODIO: S05E04 - Um mundo sem cores|https://redeflixapi.store/serie/67059/5/4
+#EPISODIO: S05E05 - E a Lulu?|https://redeflixapi.store/serie/67059/5/5
+#EPISODIO: S05E06 - O que tem para o almoço?|https://redeflixapi.store/serie/67059/5/6
+#EPISODIO: S05E07 - Espirros de dar medo|https://redeflixapi.store/serie/67059/5/7
+#EPISODIO: S05E08 - Espalhando amor|https://redeflixapi.store/serie/67059/5/8
+#EPISODIO: S05E09 - As cores da coragem|https://redeflixapi.store/serie/67059/5/9
+#EPISODIO: S05E10 - Tudo em família|https://redeflixapi.store/serie/67059/5/10
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/gw0dxuL9roVp2rCYx3y5jFHE7Cf.jpg", [SERIE] Heidi (2015)
+#SINOPSE: Heidi é uma garota órfã de 8 anos de idade, feliz e tagarela, que mora com seu avô nos Alpes suíços. Ela faz amigos com muita facilidade e gosta de ajudar quem precisa
+#EPISODIO: S01E01 - Episódio 1|https://redeflixapi.store/serie/62475/1/1
+#EPISODIO: S01E02 - Episódio 2|https://redeflixapi.store/serie/62475/1/2
+#EPISODIO: S01E03 - Episódio 3|https://redeflixapi.store/serie/62475/1/3
+#EPISODIO: S01E04 - Episódio 4|https://redeflixapi.store/serie/62475/1/4
+#EPISODIO: S01E05 - Episódio 5|https://redeflixapi.store/serie/62475/1/5
+#EPISODIO: S01E06 - Episódio 6|https://redeflixapi.store/serie/62475/1/6
+#EPISODIO: S01E07 - Episódio 7|https://redeflixapi.store/serie/62475/1/7
+#EPISODIO: S01E08 - Episódio 8|https://redeflixapi.store/serie/62475/1/8
+#EPISODIO: S01E09 - Episódio 9|https://redeflixapi.store/serie/62475/1/9
+#EPISODIO: S01E10 - Episódio 10|https://redeflixapi.store/serie/62475/1/10
+#EPISODIO: S01E11 - Episódio 11|https://redeflixapi.store/serie/62475/1/11
+#EPISODIO: S01E12 - Episódio 12|https://redeflixapi.store/serie/62475/1/12
+#EPISODIO: S01E13 - Episódio 13|https://redeflixapi.store/serie/62475/1/13
+#EPISODIO: S01E14 - Episódio 14|https://redeflixapi.store/serie/62475/1/14
+#EPISODIO: S01E15 - Episódio 15|https://redeflixapi.store/serie/62475/1/15
+#EPISODIO: S01E16 - Episódio 16|https://redeflixapi.store/serie/62475/1/16
+#EPISODIO: S01E17 - Episódio 17|https://redeflixapi.store/serie/62475/1/17
+#EPISODIO: S01E18 - Episódio 18|https://redeflixapi.store/serie/62475/1/18
+#EPISODIO: S01E19 - Episódio 19|https://redeflixapi.store/serie/62475/1/19
+#EPISODIO: S01E20 - Episódio 20|https://redeflixapi.store/serie/62475/1/20
+#EPISODIO: S01E21 - Episódio 21|https://redeflixapi.store/serie/62475/1/21
+#EPISODIO: S01E22 - Episódio 22|https://redeflixapi.store/serie/62475/1/22
+#EPISODIO: S01E23 - Episódio 23|https://redeflixapi.store/serie/62475/1/23
+#EPISODIO: S01E24 - Episódio 24|https://redeflixapi.store/serie/62475/1/24
+#EPISODIO: S01E25 - Episódio 25|https://redeflixapi.store/serie/62475/1/25
+#EPISODIO: S01E26 - Episódio 26|https://redeflixapi.store/serie/62475/1/26
+#EPISODIO: S01E27 - Episódio 27|https://redeflixapi.store/serie/62475/1/27
+#EPISODIO: S01E28 - Episódio 28|https://redeflixapi.store/serie/62475/1/28
+#EPISODIO: S01E29 - Episódio 29|https://redeflixapi.store/serie/62475/1/29
+#EPISODIO: S01E30 - Episódio 30|https://redeflixapi.store/serie/62475/1/30
+#EPISODIO: S01E31 - Episódio 31|https://redeflixapi.store/serie/62475/1/31
+#EPISODIO: S01E32 - Episódio 32|https://redeflixapi.store/serie/62475/1/32
+#EPISODIO: S01E33 - Episódio 33|https://redeflixapi.store/serie/62475/1/33
+#EPISODIO: S01E34 - Episódio 34|https://redeflixapi.store/serie/62475/1/34
+#EPISODIO: S01E35 - Episódio 35|https://redeflixapi.store/serie/62475/1/35
+#EPISODIO: S01E36 - Episódio 36|https://redeflixapi.store/serie/62475/1/36
+#EPISODIO: S01E37 - Episódio 37|https://redeflixapi.store/serie/62475/1/37
+#EPISODIO: S01E38 - Episódio 38|https://redeflixapi.store/serie/62475/1/38
+#EPISODIO: S01E39 - Episódio 39|https://redeflixapi.store/serie/62475/1/39
+#EPISODIO: S01E40 - Episódio 40|https://redeflixapi.store/serie/62475/1/40
+#EPISODIO: S01E41 - Episódio 41|https://redeflixapi.store/serie/62475/1/41
+#EPISODIO: S01E42 - Episódio 42|https://redeflixapi.store/serie/62475/1/42
+#EPISODIO: S01E43 - Episódio 43|https://redeflixapi.store/serie/62475/1/43
+#EPISODIO: S01E44 - Episódio 44|https://redeflixapi.store/serie/62475/1/44
+#EPISODIO: S01E45 - Episódio 45|https://redeflixapi.store/serie/62475/1/45
+#EPISODIO: S01E46 - Episódio 46|https://redeflixapi.store/serie/62475/1/46
+#EPISODIO: S01E47 - Episódio 47|https://redeflixapi.store/serie/62475/1/47
+#EPISODIO: S01E48 - Episódio 48|https://redeflixapi.store/serie/62475/1/48
+#EPISODIO: S01E49 - Episódio 49|https://redeflixapi.store/serie/62475/1/49
+#EPISODIO: S01E50 - Episódio 50|https://redeflixapi.store/serie/62475/1/50
+#EPISODIO: S01E51 - Episódio 51|https://redeflixapi.store/serie/62475/1/51
+#EPISODIO: S01E52 - Episódio 52|https://redeflixapi.store/serie/62475/1/52
+#EPISODIO: S01E53 - Episódio 53|https://redeflixapi.store/serie/62475/1/53
+#EPISODIO: S01E54 - Episódio 54|https://redeflixapi.store/serie/62475/1/54
+#EPISODIO: S01E55 - Episódio 55|https://redeflixapi.store/serie/62475/1/55
+#EPISODIO: S01E56 - Episódio 56|https://redeflixapi.store/serie/62475/1/56
+#EPISODIO: S01E57 - Episódio 57|https://redeflixapi.store/serie/62475/1/57
+#EPISODIO: S01E58 - Episódio 58|https://redeflixapi.store/serie/62475/1/58
+#EPISODIO: S01E59 - Episódio 59|https://redeflixapi.store/serie/62475/1/59
+#EPISODIO: S01E60 - Episódio 60|https://redeflixapi.store/serie/62475/1/60
+#EPISODIO: S01E61 - Episódio 61|https://redeflixapi.store/serie/62475/1/61
+#EPISODIO: S01E62 - Episódio 62|https://redeflixapi.store/serie/62475/1/62
+#EPISODIO: S01E63 - Episódio 63|https://redeflixapi.store/serie/62475/1/63
+#EPISODIO: S01E64 - Episódio 64|https://redeflixapi.store/serie/62475/1/64
+#EPISODIO: S01E65 - Episódio 65|https://redeflixapi.store/serie/62475/1/65
+#EPISODIO: S02E01 - Episódio 1|https://redeflixapi.store/serie/62475/2/1
+#EPISODIO: S02E02 - Episódio 2|https://redeflixapi.store/serie/62475/2/2
+#EPISODIO: S02E03 - Episódio 3|https://redeflixapi.store/serie/62475/2/3
+#EPISODIO: S02E04 - Episódio 4|https://redeflixapi.store/serie/62475/2/4
+#EPISODIO: S02E05 - Episódio 5|https://redeflixapi.store/serie/62475/2/5
+#EPISODIO: S02E06 - Episódio 6|https://redeflixapi.store/serie/62475/2/6
+#EPISODIO: S02E07 - Episódio 7|https://redeflixapi.store/serie/62475/2/7
+#EPISODIO: S02E08 - Episódio 8|https://redeflixapi.store/serie/62475/2/8
+#EPISODIO: S02E09 - Episódio 9|https://redeflixapi.store/serie/62475/2/9
+#EPISODIO: S02E10 - Episódio 10|https://redeflixapi.store/serie/62475/2/10
+#EPISODIO: S02E11 - Episódio 11|https://redeflixapi.store/serie/62475/2/11
+#EPISODIO: S02E12 - Episódio 12|https://redeflixapi.store/serie/62475/2/12
+#EPISODIO: S02E13 - Episódio 13|https://redeflixapi.store/serie/62475/2/13
+#EPISODIO: S02E14 - Episódio 14|https://redeflixapi.store/serie/62475/2/14
+#EPISODIO: S02E15 - Episódio 15|https://redeflixapi.store/serie/62475/2/15
+#EPISODIO: S02E16 - Episódio 16|https://redeflixapi.store/serie/62475/2/16
+#EPISODIO: S02E17 - Episódio 17|https://redeflixapi.store/serie/62475/2/17
+#EPISODIO: S02E18 - Episódio 18|https://redeflixapi.store/serie/62475/2/18
+#EPISODIO: S02E19 - Episódio 19|https://redeflixapi.store/serie/62475/2/19
+#EPISODIO: S02E20 - Episódio 20|https://redeflixapi.store/serie/62475/2/20
+#EPISODIO: S02E21 - Episódio 21|https://redeflixapi.store/serie/62475/2/21
+#EPISODIO: S02E22 - Episódio 22|https://redeflixapi.store/serie/62475/2/22
+#EPISODIO: S02E23 - Episódio 23|https://redeflixapi.store/serie/62475/2/23
+#EPISODIO: S02E24 - Episódio 24|https://redeflixapi.store/serie/62475/2/24
+#EPISODIO: S02E25 - Episódio 25|https://redeflixapi.store/serie/62475/2/25
+#EPISODIO: S02E26 - Episódio 26|https://redeflixapi.store/serie/62475/2/26
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/cy1jxlpJGG74aQ9mM0QDcbK4EFa.jpg", [SERIE] Peixonauta (2009)
+#SINOPSE: O agente secreto Peixonauta possui um traje especial que o permite voar e respirar fora d'água. Ele é um detetive profissional que conta com a ajuda de seus amigos, Marina e Zico. Juntos, eles vivem incríveis aventuras no Parque das Árvores Felizes. Os mistérios são resolvidos com a ajuda da Pop, uma bola mágica e colorida que sempre envia pistas para os três.
+#EPISODIO: S01E01 - Episódio 1|https://redeflixapi.store/serie/106154/1/1
+#EPISODIO: S01E02 - Episódio 2|https://redeflixapi.store/serie/106154/1/2
+#EPISODIO: S01E03 - Episódio 3|https://redeflixapi.store/serie/106154/1/3
+#EPISODIO: S01E04 - Episódio 4|https://redeflixapi.store/serie/106154/1/4
+#EPISODIO: S01E05 - Episódio 5|https://redeflixapi.store/serie/106154/1/5
+#EPISODIO: S01E06 - Episódio 6|https://redeflixapi.store/serie/106154/1/6
+#EPISODIO: S01E07 - Episódio 7|https://redeflixapi.store/serie/106154/1/7
+#EPISODIO: S01E08 - Episódio 8|https://redeflixapi.store/serie/106154/1/8
+#EPISODIO: S01E09 - Episódio 9|https://redeflixapi.store/serie/106154/1/9
+#EPISODIO: S01E10 - Episódio 10|https://redeflixapi.store/serie/106154/1/10
+#EPISODIO: S01E11 - Episódio 11|https://redeflixapi.store/serie/106154/1/11
+#EPISODIO: S01E12 - Episódio 12|https://redeflixapi.store/serie/106154/1/12
+#EPISODIO: S01E13 - Episódio 13|https://redeflixapi.store/serie/106154/1/13
+#EPISODIO: S01E14 - Episódio 14|https://redeflixapi.store/serie/106154/1/14
+#EPISODIO: S01E15 - Episódio 15|https://redeflixapi.store/serie/106154/1/15
+#EPISODIO: S01E16 - Episódio 16|https://redeflixapi.store/serie/106154/1/16
+#EPISODIO: S01E17 - Episódio 17|https://redeflixapi.store/serie/106154/1/17
+#EPISODIO: S01E18 - Episódio 18|https://redeflixapi.store/serie/106154/1/18
+#EPISODIO: S01E19 - Episódio 19|https://redeflixapi.store/serie/106154/1/19
+#EPISODIO: S01E20 - Episódio 20|https://redeflixapi.store/serie/106154/1/20
+#EPISODIO: S01E21 - Episódio 21|https://redeflixapi.store/serie/106154/1/21
+#EPISODIO: S01E22 - Episódio 22|https://redeflixapi.store/serie/106154/1/22
+#EPISODIO: S01E23 - Episódio 23|https://redeflixapi.store/serie/106154/1/23
+#EPISODIO: S01E24 - Episódio 24|https://redeflixapi.store/serie/106154/1/24
+#EPISODIO: S01E25 - Episódio 25|https://redeflixapi.store/serie/106154/1/25
+#EPISODIO: S01E26 - Episódio 26|https://redeflixapi.store/serie/106154/1/26
+#EPISODIO: S01E27 - Episódio 27|https://redeflixapi.store/serie/106154/1/27
+#EPISODIO: S01E28 - Episódio 28|https://redeflixapi.store/serie/106154/1/28
+#EPISODIO: S01E29 - Episódio 29|https://redeflixapi.store/serie/106154/1/29
+#EPISODIO: S01E30 - Episódio 30|https://redeflixapi.store/serie/106154/1/30
+#EPISODIO: S01E31 - Episódio 31|https://redeflixapi.store/serie/106154/1/31
+#EPISODIO: S01E32 - Episódio 32|https://redeflixapi.store/serie/106154/1/32
+#EPISODIO: S01E33 - Episódio 33|https://redeflixapi.store/serie/106154/1/33
+#EPISODIO: S01E34 - Episódio 34|https://redeflixapi.store/serie/106154/1/34
+#EPISODIO: S01E35 - Episódio 35|https://redeflixapi.store/serie/106154/1/35
+#EPISODIO: S01E36 - Episódio 36|https://redeflixapi.store/serie/106154/1/36
+#EPISODIO: S01E37 - Episódio 37|https://redeflixapi.store/serie/106154/1/37
+#EPISODIO: S01E38 - Episódio 38|https://redeflixapi.store/serie/106154/1/38
+#EPISODIO: S01E39 - Episódio 39|https://redeflixapi.store/serie/106154/1/39
+#EPISODIO: S01E40 - Episódio 40|https://redeflixapi.store/serie/106154/1/40
+#EPISODIO: S01E41 - Episódio 41|https://redeflixapi.store/serie/106154/1/41
+#EPISODIO: S01E42 - Episódio 42|https://redeflixapi.store/serie/106154/1/42
+#EPISODIO: S01E43 - Episódio 43|https://redeflixapi.store/serie/106154/1/43
+#EPISODIO: S01E44 - Episódio 44|https://redeflixapi.store/serie/106154/1/44
+#EPISODIO: S01E45 - Episódio 45|https://redeflixapi.store/serie/106154/1/45
+#EPISODIO: S01E46 - Episódio 46|https://redeflixapi.store/serie/106154/1/46
+#EPISODIO: S01E47 - Episódio 47|https://redeflixapi.store/serie/106154/1/47
+#EPISODIO: S01E48 - Episódio 48|https://redeflixapi.store/serie/106154/1/48
+#EPISODIO: S01E49 - Episódio 49|https://redeflixapi.store/serie/106154/1/49
+#EPISODIO: S01E50 - Episódio 50|https://redeflixapi.store/serie/106154/1/50
+#EPISODIO: S01E51 - Episódio 51|https://redeflixapi.store/serie/106154/1/51
+#EPISODIO: S01E52 - Episódio 52|https://redeflixapi.store/serie/106154/1/52
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/g9CwII7FNOoavQQX8YusXiDhTsg.jpg", [SERIE] Rã e Sapo (2023)
+#SINOPSE: Rã e Sapo não são nada parecidos. Sapo gosta de novas aventuras, Rã prefere o conforto de sua casa. Porém, apesar das diferenças, Rã e Sapo sempre se apoiam, como melhores amigos devem fazer.
+#EPISODIO: S01E01 - Biscoitos / A carta|https://redeflixapi.store/serie/219056/1/1
+#EPISODIO: S01E02 - Sorvete / O botão perdido|https://redeflixapi.store/serie/219056/1/2
+#EPISODIO: S01E03 - Primavera / Dragões e gigantes|https://redeflixapi.store/serie/219056/1/3
+#EPISODIO: S01E04 - O jardim / Um bolo|https://redeflixapi.store/serie/219056/1/4
+#EPISODIO: S01E05 - A pipa / Perdidos|https://redeflixapi.store/serie/219056/1/5
+#EPISODIO: S01E06 - A história / Uma lista|https://redeflixapi.store/serie/219056/1/6
+#EPISODIO: S01E07 - Sapatos novos / Noite na cidade|https://redeflixapi.store/serie/219056/1/7
+#EPISODIO: S01E08 - Acordar / A abóbora|https://redeflixapi.store/serie/219056/1/8
+#EPISODIO: S01E09 - Véspera de Natal|https://redeflixapi.store/serie/219056/1/9
+#EPISODIO: S02E01 - Episódio 1|https://redeflixapi.store/serie/219056/2/1
+#EPISODIO: S02E02 - Episódio 2|https://redeflixapi.store/serie/219056/2/2
+#EPISODIO: S02E03 - Episódio 3|https://redeflixapi.store/serie/219056/2/3
+#EPISODIO: S02E04 - Episódio 4|https://redeflixapi.store/serie/219056/2/4
+#EPISODIO: S02E05 - Episódio 5|https://redeflixapi.store/serie/219056/2/5
+#EPISODIO: S02E06 - Episódio 6|https://redeflixapi.store/serie/219056/2/6
+#EPISODIO: S02E07 - Episódio 7|https://redeflixapi.store/serie/219056/2/7
+#EPISODIO: S02E08 - Episódio 8|https://redeflixapi.store/serie/219056/2/8
+#EPISODIO: S02E09 - Episódio 9|https://redeflixapi.store/serie/219056/2/9
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/aNFHgkJB0yQy158IEOtwHUKltLi.jpg", [SERIE] A Pequena Espiã (2021)
+#SINOPSE: Sincera e perpetuamente curiosa. Em poucas palavras, essa é Harriet, de 11 anos de idade. Mas se ela vai se tornar Harriet M. Welsch, futura escritora, ela precisa conhecer tudo. E para conhecer tudo, ela vai ter que espionar… todo mundo.
+#EPISODIO: S01E01 - Eu sou uma péssima espiã|https://redeflixapi.store/serie/136300/1/1
+#EPISODIO: S01E02 - A votação do casaco|https://redeflixapi.store/serie/136300/1/2
+#EPISODIO: S01E03 - Juro pra sempre que não vou dançar|https://redeflixapi.store/serie/136300/1/3
+#EPISODIO: S01E04 - A eremita espiã|https://redeflixapi.store/serie/136300/1/4
+#EPISODIO: S01E05 - A origem do "M"|https://redeflixapi.store/serie/136300/1/5
+#EPISODIO: S01E06 - Enfrente a música|https://redeflixapi.store/serie/136300/1/6
+#EPISODIO: S01E07 - O pássaro mais raro|https://redeflixapi.store/serie/136300/1/7
+#EPISODIO: S01E08 - Os abraçadores de bichinhos|https://redeflixapi.store/serie/136300/1/8
+#EPISODIO: S01E09 - Espiã contra espião|https://redeflixapi.store/serie/136300/1/9
+#EPISODIO: S01E10 - Carta para a futura eu|https://redeflixapi.store/serie/136300/1/10
+#EPISODIO: S02E01 - General Enxaguashington|https://redeflixapi.store/serie/136300/2/1
+#EPISODIO: S02E02 - A festa é minha e eu espiono se quiser|https://redeflixapi.store/serie/136300/2/2
+#EPISODIO: S02E03 - O mundo do amanhã|https://redeflixapi.store/serie/136300/2/3
+#EPISODIO: S02E04 - Moedinha da sorte|https://redeflixapi.store/serie/136300/2/4
+#EPISODIO: S02E05 - Ole Golly apaixonada|https://redeflixapi.store/serie/136300/2/5
+#EPISODIO: S02E06 - A morsa e o carpinteiro|https://redeflixapi.store/serie/136300/2/6
+#EPISODIO: S02E07 - A era de Harriet|https://redeflixapi.store/serie/136300/2/7
+#EPISODIO: S02E08 - Todo mundo me odeia|https://redeflixapi.store/serie/136300/2/8
+#EPISODIO: S02E09 - Eu sou a Cebola|https://redeflixapi.store/serie/136300/2/9
+#EPISODIO: S02E10 - Harriet, a escritora|https://redeflixapi.store/serie/136300/2/10
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg", [SERIE] Corrida Maluca (1968)
+#SINOPSE: Liguem seus motores! O eterno vilão Dick Vigarista, seu fiel cupincha Muttley e seu carro, a Máquina do Mal, vão atropelar vocês e todos os outros competidores, velozes e furiosos, para chegar ao final de mais uma corrida maluca. Esteja bem equipado para encarar esta dupla de desleais encrenqueiros, assim como seus rivais: Peter Perfeito em seu Turbo Especial, Luke e o urso Chorão e sua Carroça do Pai Tomás, a Quadrilha de Morte e o seu Chugga-boom e a glamourosa Penélope Charmosa em seu carro cor-de-rosa.
+#EPISODIO: S01E01 - O Grande Prêmio Arkansas|https://redeflixapi.store/serie/985/1/1
+#EPISODIO: S01E02 - Destino Cidade Fantasma|https://redeflixapi.store/serie/985/1/2
+#EPISODIO: S01E03 - O Grande Prêmio Wyoming|https://redeflixapi.store/serie/985/1/3
+#EPISODIO: S01E04 - O Grande Prêmio Yellow Rock|https://redeflixapi.store/serie/985/1/4
+#EPISODIO: S01E05 - O Grande Prêmio Missouri|https://redeflixapi.store/serie/985/1/5
+#EPISODIO: S01E06 - O Grande Prêmio Idaho|https://redeflixapi.store/serie/985/1/6
+#EPISODIO: S01E07 - O Grande Prêmio Baja Ha-Ha|https://redeflixapi.store/serie/985/1/7
+#EPISODIO: S01E08 - Um Gorila na Corrida|https://redeflixapi.store/serie/985/1/8
+#EPISODIO: S01E09 - O Grande Prêmio Bem no Coração|https://redeflixapi.store/serie/985/1/9
+#EPISODIO: S01E10 - O Grande Prêmio Virginia|https://redeflixapi.store/serie/985/1/10
+#EPISODIO: S01E11 - O Grande Prêmio Altos e Baixos|https://redeflixapi.store/serie/985/1/11
+#EPISODIO: S01E12 - A Toda Velocidade para Arkansas|https://redeflixapi.store/serie/985/1/12
+#EPISODIO: S01E13 - O Grande Prêmio Mississippi|https://redeflixapi.store/serie/985/1/13
+#EPISODIO: S01E14 - O Grande Prêmio Alabama|https://redeflixapi.store/serie/985/1/14
+#EPISODIO: S01E15 - Corrida Quente em Chillicothe|https://redeflixapi.store/serie/985/1/15
+#EPISODIO: S01E16 - O Grande Prêmio A Estrada Não Era Essa|https://redeflixapi.store/serie/985/1/16
+#EPISODIO: S01E17 - O Grande Prêmio Rhode Island|https://redeflixapi.store/serie/985/1/17
+#EPISODIO: S01E18 - O Grande Prêmio Pólo Norte|https://redeflixapi.store/serie/985/1/18
+#EPISODIO: S01E19 - O Grande Prêmio Vale Tudo|https://redeflixapi.store/serie/985/1/19
+#EPISODIO: S01E20 - O Grande Prêmio Texas|https://redeflixapi.store/serie/985/1/20
+#EPISODIO: S01E21 - O Grande Prêmio de Washington|https://redeflixapi.store/serie/985/1/21
+#EPISODIO: S01E22 - O Grande Prêmio do Deserto|https://redeflixapi.store/serie/985/1/22
+#EPISODIO: S01E23 - O Grande Prêmio Uni-Duni-Te|https://redeflixapi.store/serie/985/1/23
+#EPISODIO: S01E24 - O Grande Prêmio do Pântano|https://redeflixapi.store/serie/985/1/24
+#EPISODIO: S01E25 - O Grande Prêmio Dakota|https://redeflixapi.store/serie/985/1/25
+#EPISODIO: S01E26 - O Grande Prêmio Delaware|https://redeflixapi.store/serie/985/1/26
+#EPISODIO: S01E27 - O Grande Prêmio de Hollywood|https://redeflixapi.store/serie/985/1/27
+#EPISODIO: S01E28 - O Grande Prêmio Raleigh|https://redeflixapi.store/serie/985/1/28
+#EPISODIO: S01E29 - O Grande Prêmio Pennsylvania|https://redeflixapi.store/serie/985/1/29
+#EPISODIO: S01E30 - O Grande Prêmio Hackensack|https://redeflixapi.store/serie/985/1/30
+#EPISODIO: S01E31 - O Grande Prêmio Idaho|https://redeflixapi.store/serie/985/1/31
+#EPISODIO: S01E32 - O Grande Prêmio Flórida|https://redeflixapi.store/serie/985/1/32
+#EPISODIO: S01E33 - O Grande Prêmio Racine|https://redeflixapi.store/serie/985/1/33
+#EPISODIO: S01E34 - O Grande Prêmio Carlsbad|https://redeflixapi.store/serie/985/1/34
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/msMO8N3BAg2u2fYAeAZxcX7WX7D.jpg", [SERIE] Aucademia (2019)
+#SINOPSE: Amigos peludos embarcam em uma jornada incrível nesta série sobre a extraordinária escola para os filhotes mais lindos, fofos e curiosos do mundo.
+#EPISODIO: S01E01 - Primeiro dia|https://redeflixapi.store/serie/93265/1/1
+#EPISODIO: S01E02 - Dia de falar sobre o seu humano|https://redeflixapi.store/serie/93265/1/2
+#EPISODIO: S01E03 - Ciência culinária|https://redeflixapi.store/serie/93265/1/3
+#EPISODIO: S01E04 - Meu tio é Dude|https://redeflixapi.store/serie/93265/1/4
+#EPISODIO: S01E05 - Oopsie!|https://redeflixapi.store/serie/93265/1/5
+#EPISODIO: S01E06 - Faísca foge|https://redeflixapi.store/serie/93265/1/6
+#EPISODIO: S01E07 - O documentário da Izzy|https://redeflixapi.store/serie/93265/1/7
+#EPISODIO: S01E08 - Miaucademia|https://redeflixapi.store/serie/93265/1/8
+#EPISODIO: S01E09 - Entrando no Bosque Selvagem|https://redeflixapi.store/serie/93265/1/9
+#EPISODIO: S01E10 - O segredo corre solto|https://redeflixapi.store/serie/93265/1/10
+#EPISODIO: S01E11 - A substituta|https://redeflixapi.store/serie/93265/1/11
+#EPISODIO: S01E12 - O passado do King|https://redeflixapi.store/serie/93265/1/12
+#EPISODIO: S01E13 - Episódio 13|https://redeflixapi.store/serie/93265/1/13
+#EPISODIO: S01E14 - Episódio 14|https://redeflixapi.store/serie/93265/1/14
+#EPISODIO: S01E15 - Episódio 15|https://redeflixapi.store/serie/93265/1/15
+#EPISODIO: S01E16 - Episódio 16|https://redeflixapi.store/serie/93265/1/16
+#EPISODIO: S01E17 - Episódio 17|https://redeflixapi.store/serie/93265/1/17
+#EPISODIO: S01E18 - Episódio 18|https://redeflixapi.store/serie/93265/1/18
+#EPISODIO: S01E19 - Episódio 19|https://redeflixapi.store/serie/93265/1/19
+#EPISODIO: S02E01 - O sumiço da constelação|https://redeflixapi.store/serie/93265/2/1
+#EPISODIO: S02E02 - Faísca quer voltar|https://redeflixapi.store/serie/93265/2/2
+#EPISODIO: S02E03 - Dia da vira-lata|https://redeflixapi.store/serie/93265/2/3
+#EPISODIO: S02E04 - Que fedor!|https://redeflixapi.store/serie/93265/2/4
+#EPISODIO: S02E05 - O resgate do King|https://redeflixapi.store/serie/93265/2/5
+#EPISODIO: S02E06 - O troféu|https://redeflixapi.store/serie/93265/2/6
+#EPISODIO: S02E07 - Formatura|https://redeflixapi.store/serie/93265/2/7
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/uLrjJ2d244iBUdZHhXuPD8Rn44G.jpg", [SERIE] Timmy e Seus Amigos (2009)
+#SINOPSE: O carneirinho Timmy está começando a encontrar o seu lugar no mundo. Ele e seus amigos precisam aprender a compartilhar, fazer amigos e aceitar seus erros. A turminha é supervisionada pelos professores Heron e Harriet.
+#EPISODIO: S01E01 - Episódio 1|https://redeflixapi.store/serie/19889/1/1
+#EPISODIO: S01E02 - Episódio 2|https://redeflixapi.store/serie/19889/1/2
+#EPISODIO: S01E03 - Episódio 3|https://redeflixapi.store/serie/19889/1/3
+#EPISODIO: S01E04 - Episódio 4|https://redeflixapi.store/serie/19889/1/4
+#EPISODIO: S01E05 - Episódio 5|https://redeflixapi.store/serie/19889/1/5
+#EPISODIO: S01E06 - Episódio 6|https://redeflixapi.store/serie/19889/1/6
+#EPISODIO: S01E07 - Episódio 7|https://redeflixapi.store/serie/19889/1/7
+#EPISODIO: S01E08 - Episódio 8|https://redeflixapi.store/serie/19889/1/8
+#EPISODIO: S01E09 - Episódio 9|https://redeflixapi.store/serie/19889/1/9
+#EPISODIO: S01E10 - Episódio 10|https://redeflixapi.store/serie/19889/1/10
+#EPISODIO: S01E11 - Episódio 11|https://redeflixapi.store/serie/19889/1/11
+#EPISODIO: S01E12 - Episódio 12|https://redeflixapi.store/serie/19889/1/12
+#EPISODIO: S01E13 - Episódio 13|https://redeflixapi.store/serie/19889/1/13
+#EPISODIO: S01E14 - Episódio 14|https://redeflixapi.store/serie/19889/1/14
+#EPISODIO: S01E15 - Episódio 15|https://redeflixapi.store/serie/19889/1/15
+#EPISODIO: S01E16 - Episódio 16|https://redeflixapi.store/serie/19889/1/16
+#EPISODIO: S01E17 - Episódio 17|https://redeflixapi.store/serie/19889/1/17
+#EPISODIO: S01E18 - Episódio 18|https://redeflixapi.store/serie/19889/1/18
+#EPISODIO: S01E19 - Episódio 19|https://redeflixapi.store/serie/19889/1/19
+#EPISODIO: S01E20 - Episódio 20|https://redeflixapi.store/serie/19889/1/20
+#EPISODIO: S01E21 - Episódio 21|https://redeflixapi.store/serie/19889/1/21
+#EPISODIO: S01E22 - Episódio 22|https://redeflixapi.store/serie/19889/1/22
+#EPISODIO: S01E23 - Episódio 23|https://redeflixapi.store/serie/19889/1/23
+#EPISODIO: S01E24 - Episódio 24|https://redeflixapi.store/serie/19889/1/24
+#EPISODIO: S01E25 - Episódio 25|https://redeflixapi.store/serie/19889/1/25
+#EPISODIO: S01E26 - Episódio 26|https://redeflixapi.store/serie/19889/1/26
+#EPISODIO: S02E01 - Episódio 1|https://redeflixapi.store/serie/19889/2/1
+#EPISODIO: S02E02 - Episódio 2|https://redeflixapi.store/serie/19889/2/2
+#EPISODIO: S02E03 - Episódio 3|https://redeflixapi.store/serie/19889/2/3
+#EPISODIO: S02E04 - Episódio 4|https://redeflixapi.store/serie/19889/2/4
+#EPISODIO: S02E05 - Episódio 5|https://redeflixapi.store/serie/19889/2/5
+#EPISODIO: S02E06 - Episódio 6|https://redeflixapi.store/serie/19889/2/6
+#EPISODIO: S02E07 - Episódio 7|https://redeflixapi.store/serie/19889/2/7
+#EPISODIO: S02E08 - Episódio 8|https://redeflixapi.store/serie/19889/2/8
+#EPISODIO: S02E09 - Episódio 9|https://redeflixapi.store/serie/19889/2/9
+#EPISODIO: S02E10 - Episódio 10|https://redeflixapi.store/serie/19889/2/10
+#EPISODIO: S02E11 - Episódio 11|https://redeflixapi.store/serie/19889/2/11
+#EPISODIO: S02E12 - Episódio 12|https://redeflixapi.store/serie/19889/2/12
+#EPISODIO: S02E13 - Episódio 13|https://redeflixapi.store/serie/19889/2/13
+#EPISODIO: S02E14 - Episódio 14|https://redeflixapi.store/serie/19889/2/14
+#EPISODIO: S02E15 - Episódio 15|https://redeflixapi.store/serie/19889/2/15
+#EPISODIO: S02E16 - Episódio 16|https://redeflixapi.store/serie/19889/2/16
+#EPISODIO: S02E17 - Episódio 17|https://redeflixapi.store/serie/19889/2/17
+#EPISODIO: S02E18 - Episódio 18|https://redeflixapi.store/serie/19889/2/18
+#EPISODIO: S02E19 - Episódio 19|https://redeflixapi.store/serie/19889/2/19
+#EPISODIO: S02E20 - Episódio 20|https://redeflixapi.store/serie/19889/2/20
+#EPISODIO: S02E21 - Episódio 21|https://redeflixapi.store/serie/19889/2/21
+#EPISODIO: S02E22 - Episódio 22|https://redeflixapi.store/serie/19889/2/22
+#EPISODIO: S02E23 - Episódio 23|https://redeflixapi.store/serie/19889/2/23
+#EPISODIO: S02E24 - Episódio 24|https://redeflixapi.store/serie/19889/2/24
+#EPISODIO: S02E25 - Episódio 25|https://redeflixapi.store/serie/19889/2/25
+#EPISODIO: S02E26 - Episódio 26|https://redeflixapi.store/serie/19889/2/26
+#EPISODIO: S03E01 - Episódio 1|https://redeflixapi.store/serie/19889/3/1
+#EPISODIO: S03E02 - Episódio 2|https://redeflixapi.store/serie/19889/3/2
+#EPISODIO: S03E03 - Episódio 3|https://redeflixapi.store/serie/19889/3/3
+#EPISODIO: S03E04 - Episódio 4|https://redeflixapi.store/serie/19889/3/4
+#EPISODIO: S03E05 - Episódio 5|https://redeflixapi.store/serie/19889/3/5
+#EPISODIO: S03E06 - Episódio 6|https://redeflixapi.store/serie/19889/3/6
+#EPISODIO: S03E07 - Episódio 7|https://redeflixapi.store/serie/19889/3/7
+#EPISODIO: S03E08 - Episódio 8|https://redeflixapi.store/serie/19889/3/8
+#EPISODIO: S03E09 - Episódio 9|https://redeflixapi.store/serie/19889/3/9
+#EPISODIO: S03E10 - Episódio 10|https://redeflixapi.store/serie/19889/3/10
+#EPISODIO: S03E11 - Episódio 11|https://redeflixapi.store/serie/19889/3/11
+#EPISODIO: S03E12 - Episódio 12|https://redeflixapi.store/serie/19889/3/12
+#EPISODIO: S03E13 - Episódio 13|https://redeflixapi.store/serie/19889/3/13
+#EPISODIO: S03E14 - Episódio 14|https://redeflixapi.store/serie/19889/3/14
+#EPISODIO: S03E15 - Episódio 15|https://redeflixapi.store/serie/19889/3/15
+#EPISODIO: S03E16 - Episódio 16|https://redeflixapi.store/serie/19889/3/16
+#EPISODIO: S03E17 - Episódio 17|https://redeflixapi.store/serie/19889/3/17
+#EPISODIO: S03E18 - Episódio 18|https://redeflixapi.store/serie/19889/3/18
+#EPISODIO: S03E19 - Episódio 19|https://redeflixapi.store/serie/19889/3/19
+#EPISODIO: S03E20 - Episódio 20|https://redeflixapi.store/serie/19889/3/20
+#EPISODIO: S03E21 - Episódio 21|https://redeflixapi.store/serie/19889/3/21
+#EPISODIO: S03E22 - Episódio 22|https://redeflixapi.store/serie/19889/3/22
+#EPISODIO: S03E23 - Episódio 23|https://redeflixapi.store/serie/19889/3/23
+#EPISODIO: S03E24 - Episódio 24|https://redeflixapi.store/serie/19889/3/24
+#EPISODIO: S03E25 - Episódio 25|https://redeflixapi.store/serie/19889/3/25
+#EPISODIO: S03E26 - Episódio 26|https://redeflixapi.store/serie/19889/3/26
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/ka7l04z9O9Jghp0RAsBOYLimil4.jpg", [SERIE] Digimon Universe App Monsters (2016)
+#SINOPSE: O mundo todo usa aplicativos de smartphone, mas dentro deles moram criaturas desconhecidas conhecidas como App Monsters, ou Appmon. Os Appmon são inteligências artificiais com a capacidade de pensar e agir, vivendo no limiar entre o mundo humano e o digital. No vasto mar da internet, uma vilanesca IA chamada Leviathan cria um L-vírus para obter controle sobre os Appmon e começa a hackear todos os sistemas do mundo, controlando o mundo humano com a força da internet. Haru Shinkai obtém o Appli Drive e o usa para materializar Gatchmon, um Appmon de aplicativo de busca.
+#EPISODIO: S01E01 - Episódio 1|https://redeflixapi.store/serie/68099/1/1
+#EPISODIO: S01E02 - Episódio 2|https://redeflixapi.store/serie/68099/1/2
+#EPISODIO: S01E03 - Episódio 3|https://redeflixapi.store/serie/68099/1/3
+#EPISODIO: S01E04 - Episódio 4|https://redeflixapi.store/serie/68099/1/4
+#EPISODIO: S01E05 - Episódio 5|https://redeflixapi.store/serie/68099/1/5
+#EPISODIO: S01E06 - Episódio 6|https://redeflixapi.store/serie/68099/1/6
+#EPISODIO: S01E07 - Episódio 7|https://redeflixapi.store/serie/68099/1/7
+#EPISODIO: S01E08 - Episódio 8|https://redeflixapi.store/serie/68099/1/8
+#EPISODIO: S01E09 - Episódio 9|https://redeflixapi.store/serie/68099/1/9
+#EPISODIO: S01E10 - Episódio 10|https://redeflixapi.store/serie/68099/1/10
+#EPISODIO: S01E11 - Episódio 11|https://redeflixapi.store/serie/68099/1/11
+#EPISODIO: S01E12 - Episódio 12|https://redeflixapi.store/serie/68099/1/12
+#EPISODIO: S01E13 - Episódio 13|https://redeflixapi.store/serie/68099/1/13
+#EPISODIO: S01E14 - Episódio 14|https://redeflixapi.store/serie/68099/1/14
+#EPISODIO: S01E15 - Episódio 15|https://redeflixapi.store/serie/68099/1/15
+#EPISODIO: S01E16 - Episódio 16|https://redeflixapi.store/serie/68099/1/16
+#EPISODIO: S01E17 - Episódio 17|https://redeflixapi.store/serie/68099/1/17
+#EPISODIO: S01E18 - Episódio 18|https://redeflixapi.store/serie/68099/1/18
+#EPISODIO: S01E19 - Episódio 19|https://redeflixapi.store/serie/68099/1/19
+#EPISODIO: S01E20 - Episódio 20|https://redeflixapi.store/serie/68099/1/20
+#EPISODIO: S01E21 - Episódio 21|https://redeflixapi.store/serie/68099/1/21
+#EPISODIO: S01E22 - Episódio 22|https://redeflixapi.store/serie/68099/1/22
+#EPISODIO: S01E23 - Episódio 23|https://redeflixapi.store/serie/68099/1/23
+#EPISODIO: S01E24 - Episódio 24|https://redeflixapi.store/serie/68099/1/24
+#EPISODIO: S01E25 - Episódio 25|https://redeflixapi.store/serie/68099/1/25
+#EPISODIO: S01E26 - Episódio 26|https://redeflixapi.store/serie/68099/1/26
+#EPISODIO: S01E27 - Episódio 27|https://redeflixapi.store/serie/68099/1/27
+#EPISODIO: S01E28 - Episódio 28|https://redeflixapi.store/serie/68099/1/28
+#EPISODIO: S01E29 - Episódio 29|https://redeflixapi.store/serie/68099/1/29
+#EPISODIO: S01E30 - Episódio 30|https://redeflixapi.store/serie/68099/1/30
+#EPISODIO: S01E31 - Episódio 31|https://redeflixapi.store/serie/68099/1/31
+#EPISODIO: S01E32 - Episódio 32|https://redeflixapi.store/serie/68099/1/32
+#EPISODIO: S01E33 - Episódio 33|https://redeflixapi.store/serie/68099/1/33
+#EPISODIO: S01E34 - Episódio 34|https://redeflixapi.store/serie/68099/1/34
+#EPISODIO: S01E35 - Episódio 35|https://redeflixapi.store/serie/68099/1/35
+#EPISODIO: S01E36 - Episódio 36|https://redeflixapi.store/serie/68099/1/36
+#EPISODIO: S01E37 - Episódio 37|https://redeflixapi.store/serie/68099/1/37
+#EPISODIO: S01E38 - Episódio 38|https://redeflixapi.store/serie/68099/1/38
+#EPISODIO: S01E39 - Episódio 39|https://redeflixapi.store/serie/68099/1/39
+#EPISODIO: S01E40 - Episódio 40|https://redeflixapi.store/serie/68099/1/40
+#EPISODIO: S01E41 - Episódio 41|https://redeflixapi.store/serie/68099/1/41
+#EPISODIO: S01E42 - Episódio 42|https://redeflixapi.store/serie/68099/1/42
+#EPISODIO: S01E43 - Episódio 43|https://redeflixapi.store/serie/68099/1/43
+#EPISODIO: S01E44 - Episódio 44|https://redeflixapi.store/serie/68099/1/44
+#EPISODIO: S01E45 - Episódio 45|https://redeflixapi.store/serie/68099/1/45
+#EPISODIO: S01E46 - Episódio 46|https://redeflixapi.store/serie/68099/1/46
+#EPISODIO: S01E47 - Episódio 47|https://redeflixapi.store/serie/68099/1/47
+#EPISODIO: S01E48 - Episódio 48|https://redeflixapi.store/serie/68099/1/48
+#EPISODIO: S01E49 - Episódio 49|https://redeflixapi.store/serie/68099/1/49
+#EPISODIO: S01E50 - Episódio 50|https://redeflixapi.store/serie/68099/1/50
+#EPISODIO: S01E51 - Episódio 51|https://redeflixapi.store/serie/68099/1/51
+#EPISODIO: S01E52 - Episódio 52|https://redeflixapi.store/serie/68099/1/52
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/eoCxhDHMGx2i3qUBWu3N6tBRxbx.jpg", [SERIE] ニルスのふしぎな旅 (1980)
+#EPISODIO: S01E01 - Episódio 1|https://redeflixapi.store/serie/19521/1/1
+#EPISODIO: S01E02 - Episódio 2|https://redeflixapi.store/serie/19521/1/2
+#EPISODIO: S01E03 - Episódio 3|https://redeflixapi.store/serie/19521/1/3
+#EPISODIO: S01E04 - Episódio 4|https://redeflixapi.store/serie/19521/1/4
+#EPISODIO: S01E05 - Episódio 5|https://redeflixapi.store/serie/19521/1/5
+#EPISODIO: S01E06 - Episódio 6|https://redeflixapi.store/serie/19521/1/6
+#EPISODIO: S01E07 - Episódio 7|https://redeflixapi.store/serie/19521/1/7
+#EPISODIO: S01E08 - Episódio 8|https://redeflixapi.store/serie/19521/1/8
+#EPISODIO: S01E09 - Episódio 9|https://redeflixapi.store/serie/19521/1/9
+#EPISODIO: S01E10 - Episódio 10|https://redeflixapi.store/serie/19521/1/10
+#EPISODIO: S01E11 - Episódio 11|https://redeflixapi.store/serie/19521/1/11
+#EPISODIO: S01E12 - Episódio 12|https://redeflixapi.store/serie/19521/1/12
+#EPISODIO: S01E13 - Episódio 13|https://redeflixapi.store/serie/19521/1/13
+#EPISODIO: S01E14 - Episódio 14|https://redeflixapi.store/serie/19521/1/14
+#EPISODIO: S01E15 - Episódio 15|https://redeflixapi.store/serie/19521/1/15
+#EPISODIO: S01E16 - Episódio 16|https://redeflixapi.store/serie/19521/1/16
+#EPISODIO: S01E17 - Episódio 17|https://redeflixapi.store/serie/19521/1/17
+#EPISODIO: S01E18 - Episódio 18|https://redeflixapi.store/serie/19521/1/18
+#EPISODIO: S01E19 - Episódio 19|https://redeflixapi.store/serie/19521/1/19
+#EPISODIO: S01E20 - Episódio 20|https://redeflixapi.store/serie/19521/1/20
+#EPISODIO: S01E21 - Episódio 21|https://redeflixapi.store/serie/19521/1/21
+#EPISODIO: S01E22 - Episódio 22|https://redeflixapi.store/serie/19521/1/22
+#EPISODIO: S01E23 - Episódio 23|https://redeflixapi.store/serie/19521/1/23
+#EPISODIO: S01E24 - Episódio 24|https://redeflixapi.store/serie/19521/1/24
+#EPISODIO: S01E25 - Episódio 25|https://redeflixapi.store/serie/19521/1/25
+#EPISODIO: S01E26 - Episódio 26|https://redeflixapi.store/serie/19521/1/26
+#EPISODIO: S01E27 - Episódio 27|https://redeflixapi.store/serie/19521/1/27
+#EPISODIO: S01E28 - Episódio 28|https://redeflixapi.store/serie/19521/1/28
+#EPISODIO: S01E29 - Episódio 29|https://redeflixapi.store/serie/19521/1/29
+#EPISODIO: S01E30 - Episódio 30|https://redeflixapi.store/serie/19521/1/30
+#EPISODIO: S01E31 - Episódio 31|https://redeflixapi.store/serie/19521/1/31
+#EPISODIO: S01E32 - Episódio 32|https://redeflixapi.store/serie/19521/1/32
+#EPISODIO: S01E33 - Episódio 33|https://redeflixapi.store/serie/19521/1/33
+#EPISODIO: S01E34 - Episódio 34|https://redeflixapi.store/serie/19521/1/34
+#EPISODIO: S01E35 - Episódio 35|https://redeflixapi.store/serie/19521/1/35
+#EPISODIO: S01E36 - Episódio 36|https://redeflixapi.store/serie/19521/1/36
+#EPISODIO: S01E37 - Episódio 37|https://redeflixapi.store/serie/19521/1/37
+#EPISODIO: S01E38 - Episódio 38|https://redeflixapi.store/serie/19521/1/38
+#EPISODIO: S01E39 - Episódio 39|https://redeflixapi.store/serie/19521/1/39
+#EPISODIO: S01E40 - Episódio 40|https://redeflixapi.store/serie/19521/1/40
+#EPISODIO: S01E41 - Episódio 41|https://redeflixapi.store/serie/19521/1/41
+#EPISODIO: S01E42 - Episódio 42|https://redeflixapi.store/serie/19521/1/42
+#EPISODIO: S01E43 - Episódio 43|https://redeflixapi.store/serie/19521/1/43
+#EPISODIO: S01E44 - Episódio 44|https://redeflixapi.store/serie/19521/1/44
+#EPISODIO: S01E45 - Episódio 45|https://redeflixapi.store/serie/19521/1/45
+#EPISODIO: S01E46 - Episódio 46|https://redeflixapi.store/serie/19521/1/46
+#EPISODIO: S01E47 - Episódio 47|https://redeflixapi.store/serie/19521/1/47
+#EPISODIO: S01E48 - Episódio 48|https://redeflixapi.store/serie/19521/1/48
+#EPISODIO: S01E49 - Episódio 49|https://redeflixapi.store/serie/19521/1/49
+#EPISODIO: S01E50 - Episódio 50|https://redeflixapi.store/serie/19521/1/50
+#EPISODIO: S01E51 - Episódio 51|https://redeflixapi.store/serie/19521/1/51
+#EPISODIO: S01E52 - Episódio 52|https://redeflixapi.store/serie/19521/1/52
